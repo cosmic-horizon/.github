@@ -5,8 +5,6 @@
     </h3>
 </div>
 
-## About Qwoyn Studios
-
 Qwoyn Studios is a pioneering game development company focused on creating immersive, multiplayer games that harness the power of blockchain technology. Our vision is to revolutionize the gaming industry by providing players with new and engaging gameplay experiences while fostering transparent and fair game economies.
 
 At Qwoyn Studios, we believe that blockchain technology has the potential to transform the way games are developed, played, and monetized. By leveraging the decentralized nature of blockchain, we aim to create game worlds that empower players, reward their skills and achievements, and offer true ownership of in-game assets.
