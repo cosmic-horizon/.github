@@ -1,3 +1,10 @@
+<div align="center" style="font-size:20px">
+    <img alt="Issues" src="https://i.imgur.com/EZBSGwH.png" />
+    <h3>
+        <i>Decentralized Gaming Blockchain built using cosmos sdk</i>
+    </h3>
+</div>
+
 ## About Qwoyn Studios
 
 Qwoyn Studios is a pioneering game development company focused on creating immersive, multiplayer games that harness the power of blockchain technology. Our vision is to revolutionize the gaming industry by providing players with new and engaging gameplay experiences while fostering transparent and fair game economies.
